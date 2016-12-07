@@ -1,4 +1,4 @@
 # Data-Science-Books
 
 
-It's my collection of Data Science material.
+My Data Science collection consists of various well-known books and research articles. I will try to add more content as i accumulate.
